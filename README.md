@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project implements an end-to-end **machine learning regression model** to predict crop yield using real-world agricultural and environmental data. The solution focuses on **data preprocessing, model selection, evaluation, and reasoning**, as required for an AI/ML Engineer role.
-
-This project was developed as part of a **campus recruitment assignment**.
+This project implements an end-to-end **machine learning regression model** to predict crop yield using real-world agricultural and environmental data. The solution focuses on **data preprocessing, model selection, evaluation, and reasoning**.
 
 ---
 
