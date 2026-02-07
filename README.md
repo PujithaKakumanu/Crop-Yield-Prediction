@@ -128,6 +128,15 @@ Crop-Yield-Prediction/
 
 ---
 
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+---
+
 ## How to Run
 
 1. Install dependencies:
@@ -145,16 +154,6 @@ jupyter notebook crop_yield_prediction.ipynb
 (or run in Google Colab)
 
 3. Execute all cells to perform preprocessing, training, evaluation, and inference.
-
----
-
-## Key Takeaways
-
-* Demonstrates strong **ML fundamentals**
-* Handles real-world data preprocessing challenges
-* Compares baseline and improved models
-* Focuses on **model reasoning**, not just accuracy
-* Fully aligns with AI/ML Engineer evaluation criteria
 
 ---
 
